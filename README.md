@@ -22,7 +22,7 @@ Platziere das Formular in die Mitte der Seite.
 Gib dem body eine Hintergrundfarbe.
 
 ## JavaScript
-Frage das Alter nun über JavaScript ab.
+Prüfe das Alter nun mit JavaScript.
 
 Schreibe dazu eine Funktion `run` und verlinke sie im `action` Tag im Formular.
 
