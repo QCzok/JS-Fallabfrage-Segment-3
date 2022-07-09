@@ -36,4 +36,4 @@ leitest du den Nutzer mit der folgenden JavaScript Anweisung weiter:
 
 `location.replace("https://www.goldbarnewyork.com/");`
 
-Im `else` Fall gibst du ein `alert` mit der Meldung "Die Seite ist nur für Erwachsene zugänglich" aus.
+Im `else` Fall gibst du ein `alert` mit der Meldung "You have to be at least 21 years old." aus.
