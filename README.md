@@ -5,7 +5,7 @@ Wir sollen unsere Nutzer auf eine Webseite einer luxuriösen Bar in New York wei
 
 Allerdings müssen wir in einem ersten Schritt das Alter der Nutzer abfragen.
 
-Der Nutzer wird auf die Seite nur weitergeleitet, wenn sein Alter mindestens **18 Jahre** beträgt.
+Der Nutzer wird auf die Seite nur weitergeleitet, wenn sein Alter mindestens **21 Jahre** beträgt.
 
 ## HTML
 Deine Seite besteht aus einem einzigen Formular zur Alterabfrage.
@@ -30,7 +30,7 @@ In der Funktion greifst du nun auf die Alterseingabe mittels `querySelector` zu.
 
 Als letztes brauchst du eine `if-else` Fallabfrage.
 
-Falls die Eingabe **größer** oder **gleich** `18` ist,
+Falls die Eingabe **größer** oder **gleich** `21` ist,
 
 leitest du den Nutzer mit der folgenden JavaScript Anweisung weiter:
 
