@@ -11,7 +11,8 @@ Der Nutzer wird auf die Seite nur weitergeleitet, wenn sein Alter mindestens **1
 Deine Seite besteht aus einem einzigen Formular zur Alterabfrage.
 
 Das Formular hat ein Eingabefeld für:
-*Alter (number, eingabepflichtig, Minumum 1)
+
+* Alter (number, eingabepflichtig, Minumum 1)
 
 und einen Button zum Absenden.
 
